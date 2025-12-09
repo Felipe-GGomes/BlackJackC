@@ -48,4 +48,4 @@ O projeto foi construído em **C** utilizando a IDE **Code::Blocks**, aplicando 
 4.  Torça para o Computador estourar (passar de 21) ou fazer menos pontos que você!
 
 ---
-*Desenvolvido por [Seu Nome] - UTFPR 2025*
+*Desenvolvido por Felipe Gabriel Gomes - UTFPR 2025*
