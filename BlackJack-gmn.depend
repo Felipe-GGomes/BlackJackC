@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1765248381 source:c:\users\felipe\desktop\github\estrutura_dados\aprendendo\trabalho final\blackjack-gmn\baralho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"baralho.h"
+
+1765248372 c:\users\felipe\desktop\github\estrutura_dados\aprendendo\trabalho final\blackjack-gmn\baralho.h
+
+1765249952 source:c:\users\felipe\desktop\github\estrutura_dados\aprendendo\trabalho final\blackjack-gmn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"baralho.h"
+	"cores.h"
+
+1765248366 c:\users\felipe\desktop\github\estrutura_dados\aprendendo\trabalho final\blackjack-gmn\cores.h
+
